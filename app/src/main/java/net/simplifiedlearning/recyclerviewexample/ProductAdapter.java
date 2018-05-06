@@ -17,6 +17,7 @@ import java.util.List;
 
 
 public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ProductViewHolder> {
+    //https://www.youtube.com/watch?v=a4o9zFfyIM4
 
 
     //this context we will use to inflate the layout

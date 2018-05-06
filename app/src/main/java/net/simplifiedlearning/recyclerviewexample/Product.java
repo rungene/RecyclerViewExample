@@ -6,6 +6,8 @@ package net.simplifiedlearning.recyclerviewexample;
 
 
 public class Product {
+
+    //https://www.youtube.com/watch?v=a4o9zFfyIM4
     private int id;
     private String title;
     private String shortdesc;

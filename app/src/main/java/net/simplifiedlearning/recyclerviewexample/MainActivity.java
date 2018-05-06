@@ -10,6 +10,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    //https://www.youtube.com/watch?v=a4o9zFfyIM4
+
     //a list to store all the products
     List<Product> productList;
 
